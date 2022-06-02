@@ -1,0 +1,21 @@
+enabled: true
+
+domains: 
+ blockeddomains: 
+  - .tk
+  - .ml
+  - .ga
+  - .cf
+  - .gq
+ alloweddomains:
+  - kool-kid.xyz
+  - dev.kool-kid.xyz:3000
+  - devpanel.kool-kid.xyz
+
+hosts: 
+ craftnodes:
+  urls:
+  - client.craft-nodes.ml
+  - client.craftnodes.me
+  - dash.craftnodes.me
+  - dashboard.craftnodes.ml
